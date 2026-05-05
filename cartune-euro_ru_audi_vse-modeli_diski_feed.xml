@@ -1,0 +1,918 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2026-05-05 23:30">
+  <shop>
+    <name>cartune-euro.ru</name>
+    <company>cartune-euro.ru</company>
+    <url>https://cartune-euro.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="3209322531">Диски для Audi A4, A6, Q5, Q7</category>
+    </categories>
+    <offers>
+      <offer id="100009832269629774965487005500417158121" available="true" type="vendor.model">
+        <name>Диски AUDI Q5 2009 8R c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dec39/</url>
+        <price>21999</price>
+        <oldprice>24198</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_883.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_884.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_885.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_886.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_887.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>VAG</vendor>
+        <model>AUDI Q5 2009 8R</model>
+        <description>Неоригинальные диски для AUDI Q5 2009, кузов 8R, двигатель CDNC. Без сварки и трещин. Made in Taiwan. Размер 7.5Jx17 ET40. Номер 135993</description>
+        <sales_notes>В наличии Москва, цена 21999</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>VAG</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">8R</param>
+        <param name="Двигатель">CDNC</param>
+        <param name="Год">2009</param>
+        <param name="Номер по производителю">135993</param>
+      </offer>
+      <offer id="268040178099670371271936993792683962535" available="true" type="vendor.model">
+        <name>Диски AUDI Q5 2009 8R с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dec39/</url>
+        <price>21999</price>
+        <oldprice>24198</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_883.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_884.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_885.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_886.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_887.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>VAG</vendor>
+        <model>AUDI Q5 2009 8R</model>
+        <description>Контрактные диски с AUDI Q5 2009. Состояние: без сварки и трещин. Производство Тайвань. Параметры: 7.5Jx17 ET40. ID 135993</description>
+        <sales_notes>В наличии Москва, цена 21999</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>VAG</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">8R</param>
+        <param name="Двигатель">CDNC</param>
+        <param name="Год">2009</param>
+        <param name="Номер по производителю">135993</param>
+      </offer>
+      <offer id="243425993988504641774223294759891511047" available="true" type="vendor.model">
+        <name>Диски AUDI Q5 2009 8R заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dec39/</url>
+        <price>21999</price>
+        <oldprice>24198</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_883.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_884.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_885.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_886.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_887.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>VAG</vendor>
+        <model>AUDI Q5 2009 8R</model>
+        <description>Диски для AUDI Q5 2009 года, модель 8R CDNC. Неоригинальные, Made in Taiwan. Размер 7.5Jx17 ET40. Без дефектов сварки и трещин</description>
+        <sales_notes>В наличии Москва, цена 21999</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>VAG</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">8R</param>
+        <param name="Двигатель">CDNC</param>
+        <param name="Год">2009</param>
+        <param name="Номер по производителю">135993</param>
+      </offer>
+      <offer id="308185351325590026327231488986736963690" available="true" type="vendor.model">
+        <name>Диски AUDI Q5 2009 8R купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dec39/</url>
+        <price>21999</price>
+        <oldprice>24198</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_883.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_884.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_885.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_886.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_887.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>VAG</vendor>
+        <model>AUDI Q5 2009 8R</model>
+        <description>Комплект дисков с AUDI Q5 2009. Характеристики: 7.5Jx17 ET40, неоригинал, Тайвань. Без сварки и трещин. Артикул 135993</description>
+        <sales_notes>В наличии Москва, цена 21999</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>VAG</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">8R</param>
+        <param name="Двигатель">CDNC</param>
+        <param name="Год">2009</param>
+        <param name="Номер по производителю">135993</param>
+      </offer>
+      <offer id="136598252112288720922471622761517056508" available="true" type="vendor.model">
+        <name>Диски AUDI Q5 2009 8R по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dec39/</url>
+        <price>21999</price>
+        <oldprice>24198</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_883.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_884.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_885.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_886.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_887.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>VAG</vendor>
+        <model>AUDI Q5 2009 8R</model>
+        <description>Диски от автомобиля AUDI Q5 2009 (8R CDNC). Неоригинальные, Made in Taiwan. Размер 7.5Jx17 ET40. Состояние: без сварки и трещин</description>
+        <sales_notes>В наличии Москва, цена 21999</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>VAG</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">8R</param>
+        <param name="Двигатель">CDNC</param>
+        <param name="Год">2009</param>
+        <param name="Номер по производителю">135993</param>
+      </offer>
+      <offer id="47210873580379772298601846670295484062" available="true" type="vendor.model">
+        <name>Диски AUDI Q5 2009 8R узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dec39/</url>
+        <price>21999</price>
+        <oldprice>24198</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_883.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_884.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_885.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_886.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_887.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>VAG</vendor>
+        <model>AUDI Q5 2009 8R</model>
+        <description>Б/у диски с AUDI Q5 2009. Параметры: 7.5Jx17 ET40, неоригинал, Тайвань. Без сварки и трещин. Номер детали 135993</description>
+        <sales_notes>В наличии Москва, цена 21999</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>VAG</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">8R</param>
+        <param name="Двигатель">CDNC</param>
+        <param name="Год">2009</param>
+        <param name="Номер по производителю">135993</param>
+      </offer>
+      <offer id="194145866987711062857089263568111373332" available="true" type="vendor.model">
+        <name>Диски AUDI S5 2008 8T c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22fb/</url>
+        <price>48999</price>
+        <oldprice>53898</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_597.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_598.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_599.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_600.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_601.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>VAG</vendor>
+        <model>AUDI S5 2008 8T</model>
+        <description>Оригинальные диски S-line Speedline для AUDI S5 2008. Размер 8.5xR19 5x112. Без сварки и трещин. Есть потертости. Контрактная запчасть из Японии</description>
+        <sales_notes>Размеры: 8.5xR19 5x112. Оригинальные S-line</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>VAG</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="271573995106842021854293457729147691503" available="true" type="vendor.model">
+        <name>Диски AUDI S5 2008 8T с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22fb/</url>
+        <price>48999</price>
+        <oldprice>53898</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_597.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_598.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_599.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_600.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_601.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>VAG</vendor>
+        <model>AUDI S5 2008 8T</model>
+        <description>Оригинальные диски S-line Speedline для AUDI S5 2008. Размер 8.5xR19 5x112. Без сварки и трещин. Есть потертости. Контрактная запчасть из Японии</description>
+        <sales_notes>Размеры: 8.5xR19 5x112. Оригинальные S-line</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>VAG</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="129955511694589831313534604964192155951" available="true" type="vendor.model">
+        <name>Диски AUDI S5 2008 8T заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22fb/</url>
+        <price>48999</price>
+        <oldprice>53898</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_597.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_598.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_599.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_600.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_601.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>VAG</vendor>
+        <model>AUDI S5 2008 8T</model>
+        <description>Оригинальные диски S-line Speedline для AUDI S5 2008. Размер 8.5xR19 5x112. Без сварки и трещин. Есть потертости. Контрактная запчасть из Японии</description>
+        <sales_notes>Размеры: 8.5xR19 5x112. Оригинальные S-line</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>VAG</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="167930549432517853649872612761890551637" available="true" type="vendor.model">
+        <name>Диски AUDI S5 2008 8T купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22fb/</url>
+        <price>48999</price>
+        <oldprice>53898</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_597.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_598.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_599.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_600.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_601.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>VAG</vendor>
+        <model>AUDI S5 2008 8T</model>
+        <description>Оригинальные диски S-line Speedline для AUDI S5 2008. Размер 8.5xR19 5x112. Без сварки и трещин. Есть потертости. Контрактная запчасть из Японии</description>
+        <sales_notes>Размеры: 8.5xR19 5x112. Оригинальные S-line</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>VAG</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="72104523576758918169360529079542992191" available="true" type="vendor.model">
+        <name>Диски AUDI S5 2008 8T по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22fb/</url>
+        <price>48999</price>
+        <oldprice>53898</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_597.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_598.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_599.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_600.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_601.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>VAG</vendor>
+        <model>AUDI S5 2008 8T</model>
+        <description>Оригинальные диски S-line Speedline для AUDI S5 2008. Размер 8.5xR19 5x112. Без сварки и трещин. Есть потертости. Контрактная запчасть из Японии</description>
+        <sales_notes>Размеры: 8.5xR19 5x112. Оригинальные S-line</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>VAG</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="80816019343436060523592939328901494283" available="true" type="vendor.model">
+        <name>Диски AUDI S5 2008 8T узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22fb/</url>
+        <price>48999</price>
+        <oldprice>53898</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_597.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_598.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_599.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_600.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_601.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>VAG</vendor>
+        <model>AUDI S5 2008 8T</model>
+        <description>Оригинальные диски S-line Speedline для AUDI S5 2008. Размер 8.5xR19 5x112. Без сварки и трещин. Есть потертости. Контрактная запчасть из Японии</description>
+        <sales_notes>Размеры: 8.5xR19 5x112. Оригинальные S-line</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>VAG</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="128780011097087585890950086676594333523" available="true" type="vendor.model">
+        <name>Диски AUDI TT 2007 8J BWA c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20bb/</url>
+        <price>59999</price>
+        <oldprice>65998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_340.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_341.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_342.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_343.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_344.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>AUDI</vendor>
+        <model>TT 2007 8J BWA</model>
+        <description>Оригинальные японские диски Homura 2x9 RAYS CWP, размер 19x8J ET45 5x112, требуют ремонта лицевой части, без сварки и трещин</description>
+        <sales_notes>Без сварки и трещин, цена 59 999</sales_notes>
+        <custom_label_0>AUDI</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">8J</param>
+        <param name="Двигатель">BWA</param>
+        <param name="Год">2007</param>
+        <param name="Номер по производителю">8J</param>
+        <param name="ID товара">122811</param>
+      </offer>
+      <offer id="86249219926088087368175059363706810452" available="true" type="vendor.model">
+        <name>Диски AUDI TT 2007 8J BWA с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20bb/</url>
+        <price>59999</price>
+        <oldprice>65998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_340.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_341.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_342.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_343.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_344.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>AUDI</vendor>
+        <model>TT 2007 8J BWA</model>
+        <description>Контрактные диски с AUDI TT 2007, кузов 8J, двигатель BWA, состояние б/у, требуют ремонта лицевой части</description>
+        <sales_notes>Без сварки и трещин, цена 59 999</sales_notes>
+        <custom_label_0>AUDI</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">8J</param>
+        <param name="Двигатель">BWA</param>
+        <param name="Год">2007</param>
+        <param name="Номер по производителю">8J</param>
+        <param name="ID товара">122811</param>
+      </offer>
+      <offer id="116428867998088757266893797724841624341" available="true" type="vendor.model">
+        <name>Диски AUDI TT 2007 8J BWA заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20bb/</url>
+        <price>59999</price>
+        <oldprice>65998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_340.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_341.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_342.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_343.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_344.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>AUDI</vendor>
+        <model>TT 2007 8J BWA</model>
+        <description>Комплект дисков Homura RAYS CWP 19 дюймов, ширина 8J, вылет ET45, разболтовка 5x112, без сварки и трещин</description>
+        <sales_notes>Без сварки и трещин, цена 59 999</sales_notes>
+        <custom_label_0>AUDI</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">8J</param>
+        <param name="Двигатель">BWA</param>
+        <param name="Год">2007</param>
+        <param name="Номер по производителю">8J</param>
+        <param name="ID товара">122811</param>
+      </offer>
+      <offer id="244683422726590923587801368788413392923" available="true" type="vendor.model">
+        <name>Диски AUDI TT 2007 8J BWA купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20bb/</url>
+        <price>59999</price>
+        <oldprice>65998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_340.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_341.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_342.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_343.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_344.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>AUDI</vendor>
+        <model>TT 2007 8J BWA</model>
+        <description>Оригинальные диски VAG для AUDI TT 2007, модель Homura 2x9 RAYS CWP, требуют ремонта лицевой части</description>
+        <sales_notes>Без сварки и трещин, цена 59 999</sales_notes>
+        <custom_label_0>AUDI</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">8J</param>
+        <param name="Двигатель">BWA</param>
+        <param name="Год">2007</param>
+        <param name="Номер по производителю">8J</param>
+        <param name="ID товара">122811</param>
+      </offer>
+      <offer id="186293308255541973839292287391417561375" available="true" type="vendor.model">
+        <name>Диски AUDI TT 2007 8J BWA по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20bb/</url>
+        <price>59999</price>
+        <oldprice>65998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_340.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_341.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_342.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_343.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_344.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>AUDI</vendor>
+        <model>TT 2007 8J BWA</model>
+        <description>Диски 19x8J ET45 5x112 от AUDI TT 2007, бренд RAYS, состояние с дефектами лицевой части, без сварки и трещин</description>
+        <sales_notes>Без сварки и трещин, цена 59 999</sales_notes>
+        <custom_label_0>AUDI</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">8J</param>
+        <param name="Двигатель">BWA</param>
+        <param name="Год">2007</param>
+        <param name="Номер по производителю">8J</param>
+        <param name="ID товара">122811</param>
+      </offer>
+      <offer id="245075924448920029981880020690657068008" available="true" type="vendor.model">
+        <name>Диски AUDI TT 2007 8J BWA узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20bb/</url>
+        <price>59999</price>
+        <oldprice>65998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_340.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_341.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_342.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_343.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_344.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>AUDI</vendor>
+        <model>TT 2007 8J BWA</model>
+        <description>Японские диски Homura 2x9 RAYS CWP, сняты с AUDI TT 2007, требуют ремонта лицевой части, без сварки и трещин</description>
+        <sales_notes>Без сварки и трещин, цена 59 999</sales_notes>
+        <custom_label_0>AUDI</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">8J</param>
+        <param name="Двигатель">BWA</param>
+        <param name="Год">2007</param>
+        <param name="Номер по производителю">8J</param>
+        <param name="ID товара">122811</param>
+      </offer>
+      <offer id="164497116927315884802654298143678990536" available="true" type="vendor.model">
+        <name>Диски AUDI A6 2010 C6 CCEA c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4ae/</url>
+        <price>64999</price>
+        <oldprice>71498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_440.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>AUDI</vendor>
+        <model>A6 2010 C6 CCEA</model>
+        <description>Оригинальные диски AUDI EXCLUSIVE 5. Размеры 8.5Jx19 ET48. Без сварки и трещин. Привезены из Японии. Номер 4F0601025DE</description>
+        <sales_notes>Сняты с AUDI A6 2010. В наличии в Москве</sales_notes>
+        <custom_label_0>AUDI</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="67866212220380596998336876262594233863" available="true" type="vendor.model">
+        <name>Диски AUDI A6 2010 C6 CCEA с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4ae/</url>
+        <price>64999</price>
+        <oldprice>71498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_440.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>AUDI</vendor>
+        <model>A6 2010 C6 CCEA</model>
+        <description>Контрактные диски с AUDI A6 2010. Размер 8.5Jx19 ET48. Оригинал VAG. Без дефектов</description>
+        <sales_notes>Сняты с AUDI A6 2010. В наличии в Москве</sales_notes>
+        <custom_label_0>AUDI</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="27963758163448725367550824309681607160" available="true" type="vendor.model">
+        <name>Диски AUDI A6 2010 C6 CCEA заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4ae/</url>
+        <price>64999</price>
+        <oldprice>71498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_440.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>AUDI</vendor>
+        <model>A6 2010 C6 CCEA</model>
+        <description>Оригинальные диски AUDI EXCLUSIVE 5. Подходят на A6 C6. Размер 8.5Jx19 ET48. Состояние отличное</description>
+        <sales_notes>Сняты с AUDI A6 2010. В наличии в Москве</sales_notes>
+        <custom_label_0>AUDI</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="279118409094494722245020509463200450902" available="true" type="vendor.model">
+        <name>Диски AUDI A6 2010 C6 CCEA купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4ae/</url>
+        <price>64999</price>
+        <oldprice>71498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_440.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>AUDI</vendor>
+        <model>A6 2010 C6 CCEA</model>
+        <description>Диски с японского аукциона. Оригинал AUDI. Размер 8.5Jx19 ET48. Без трещин и сварки</description>
+        <sales_notes>Сняты с AUDI A6 2010. В наличии в Москве</sales_notes>
+        <custom_label_0>AUDI</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="204113169804535284066588960963105668996" available="true" type="vendor.model">
+        <name>Диски AUDI A6 2010 C6 CCEA по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4ae/</url>
+        <price>64999</price>
+        <oldprice>71498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_440.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>AUDI</vendor>
+        <model>A6 2010 C6 CCEA</model>
+        <description>Оригинальные диски AUDI A6 C6. Размер 8.5Jx19 ET48. Номер 4F0601025DE. В наличии</description>
+        <sales_notes>Сняты с AUDI A6 2010. В наличии в Москве</sales_notes>
+        <custom_label_0>AUDI</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="274951264523102049789942840626541308083" available="true" type="vendor.model">
+        <name>Диски AUDI A6 2010 C6 CCEA узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4ae/</url>
+        <price>64999</price>
+        <oldprice>71498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_440.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>AUDI</vendor>
+        <model>A6 2010 C6 CCEA</model>
+        <description>Контрактные диски AUDI EXCLUSIVE 5. Размер 8.5Jx19 ET48. Без дефектов. Привезены из Японии</description>
+        <sales_notes>Сняты с AUDI A6 2010. В наличии в Москве</sales_notes>
+        <custom_label_0>AUDI</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="220442652968930163471564002889924672266" available="true" type="vendor.model">
+        <name>Диски AUDI A6 2010 C6 Avant CCEA c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dee6f/</url>
+        <price>66999</price>
+        <oldprice>73698</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_615.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_616.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_617.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_618.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_619.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>AUDI</vendor>
+        <model>A6 2010 C6 Avant CCEA</model>
+        <description>Оригинальные диски AUDI EXCLUSIVE 5. Размеры 8.5Jx19 ET48. Без сварки и трещин. Привезены из Японии. В наличии в Москве</description>
+        <sales_notes>В наличии в Москве. Цена 66 999</sales_notes>
+        <custom_label_0>AUDI</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">C6 Avant</param>
+        <param name="Двигатель">CCEA</param>
+        <param name="Год">2010</param>
+        <param name="Номер по производителю">4F0601025DE</param>
+        <param name="Размеры">8.5Jx19 ET48</param>
+      </offer>
+      <offer id="175303087290124720748194370428669675946" available="true" type="vendor.model">
+        <name>Диски AUDI A6 2010 C6 Avant CCEA с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dee6f/</url>
+        <price>66999</price>
+        <oldprice>73698</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_615.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_616.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_617.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_618.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_619.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>AUDI</vendor>
+        <model>A6 2010 C6 Avant CCEA</model>
+        <description>Контрактные диски AUDI A6 2010 C6 Avant CCEA. Размер 8.5Jx19 ET48. Оригинал VAG. Без дефектов</description>
+        <sales_notes>В наличии в Москве. Цена 66 999</sales_notes>
+        <custom_label_0>AUDI</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">C6 Avant</param>
+        <param name="Двигатель">CCEA</param>
+        <param name="Год">2010</param>
+        <param name="Номер по производителю">4F0601025DE</param>
+        <param name="Размеры">8.5Jx19 ET48</param>
+      </offer>
+      <offer id="196587676783622042110037470788599748144" available="true" type="vendor.model">
+        <name>Диски AUDI A6 2010 C6 Avant CCEA заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dee6f/</url>
+        <price>66999</price>
+        <oldprice>73698</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_615.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_616.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_617.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_618.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_619.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>AUDI</vendor>
+        <model>A6 2010 C6 Avant CCEA</model>
+        <description>Оригинальные диски AUDI EXCLUSIVE 5 для A6 C6 Avant. Размер 8.5Jx19 ET48. Привезены из Японии</description>
+        <sales_notes>В наличии в Москве. Цена 66 999</sales_notes>
+        <custom_label_0>AUDI</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">C6 Avant</param>
+        <param name="Двигатель">CCEA</param>
+        <param name="Год">2010</param>
+        <param name="Номер по производителю">4F0601025DE</param>
+        <param name="Размеры">8.5Jx19 ET48</param>
+      </offer>
+      <offer id="252685362543474782575385632776563339068" available="true" type="vendor.model">
+        <name>Диски AUDI A6 2010 C6 Avant CCEA купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dee6f/</url>
+        <price>66999</price>
+        <oldprice>73698</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_615.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_616.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_617.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_618.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_619.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>AUDI</vendor>
+        <model>A6 2010 C6 Avant CCEA</model>
+        <description>Диски AUDI A6 2010 C6 Avant CCEA. Оригинал VAG. Размер 8.5Jx19 ET48. Без сварки и трещин</description>
+        <sales_notes>В наличии в Москве. Цена 66 999</sales_notes>
+        <custom_label_0>AUDI</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">C6 Avant</param>
+        <param name="Двигатель">CCEA</param>
+        <param name="Год">2010</param>
+        <param name="Номер по производителю">4F0601025DE</param>
+        <param name="Размеры">8.5Jx19 ET48</param>
+      </offer>
+      <offer id="26305388780882133997911528954438441304" available="true" type="vendor.model">
+        <name>Диски AUDI A6 2010 C6 Avant CCEA по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dee6f/</url>
+        <price>66999</price>
+        <oldprice>73698</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_615.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_616.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_617.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_618.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_619.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>AUDI</vendor>
+        <model>A6 2010 C6 Avant CCEA</model>
+        <description>Контрактные диски AUDI A6 C6 Avant. Размер 8.5Jx19 ET48. Оригинальные AUDI EXCLUSIVE 5. Из Японии</description>
+        <sales_notes>В наличии в Москве. Цена 66 999</sales_notes>
+        <custom_label_0>AUDI</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">C6 Avant</param>
+        <param name="Двигатель">CCEA</param>
+        <param name="Год">2010</param>
+        <param name="Номер по производителю">4F0601025DE</param>
+        <param name="Размеры">8.5Jx19 ET48</param>
+      </offer>
+      <offer id="4076151304122920851815590779261521708" available="true" type="vendor.model">
+        <name>Диски AUDI A6 2010 C6 Avant CCEA узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dee6f/</url>
+        <price>66999</price>
+        <oldprice>73698</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_615.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_616.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_617.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_618.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_619.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>AUDI</vendor>
+        <model>A6 2010 C6 Avant CCEA</model>
+        <description>Оригинальные диски AUDI A6 2010 C6 Avant CCEA. Размер 8.5Jx19 ET48. Без сварки и трещин. В наличии</description>
+        <sales_notes>В наличии в Москве. Цена 66 999</sales_notes>
+        <custom_label_0>AUDI</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">C6 Avant</param>
+        <param name="Двигатель">CCEA</param>
+        <param name="Год">2010</param>
+        <param name="Номер по производителю">4F0601025DE</param>
+        <param name="Размеры">8.5Jx19 ET48</param>
+      </offer>
+    </offers>
+    <collections>
+      <collection id="col_100009832269629774965487005500417158121">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dec39/</url>
+        <name>Диски AUDI Q5 2009 8R c доставкой</name>
+        <description>Контрактная Диски VAG Q5 (кузов 8R, двс CDNC)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_883.jpg</picture>
+      </collection>
+      <collection id="col_268040178099670371271936993792683962535">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dec39/</url>
+        <name>Диски AUDI Q5 2009 8R с гарантией</name>
+        <description>Контрактная Диски VAG Q5 (кузов 8R, двс CDNC)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_883.jpg</picture>
+      </collection>
+      <collection id="col_243425993988504641774223294759891511047">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dec39/</url>
+        <name>Диски AUDI Q5 2009 8R заказать</name>
+        <description>Контрактная Диски VAG Q5 (кузов 8R, двс CDNC)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_883.jpg</picture>
+      </collection>
+      <collection id="col_308185351325590026327231488986736963690">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dec39/</url>
+        <name>Диски AUDI Q5 2009 8R купить</name>
+        <description>Контрактная Диски VAG Q5 (кузов 8R, двс CDNC)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_883.jpg</picture>
+      </collection>
+      <collection id="col_136598252112288720922471622761517056508">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dec39/</url>
+        <name>Диски AUDI Q5 2009 8R по низкой цене</name>
+        <description>Контрактная Диски VAG Q5 (кузов 8R, двс CDNC)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_883.jpg</picture>
+      </collection>
+      <collection id="col_47210873580379772298601846670295484062">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dec39/</url>
+        <name>Диски AUDI Q5 2009 8R узнать стоимость</name>
+        <description>Контрактная Диски VAG Q5 (кузов 8R, двс CDNC)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_883.jpg</picture>
+      </collection>
+      <collection id="col_194145866987711062857089263568111373332">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22fb/</url>
+        <name>Диски AUDI S5 2008 8T c доставкой</name>
+        <description>Контрактная Диски VAG AUDI S5 2008 8T</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_597.jpg</picture>
+      </collection>
+      <collection id="col_271573995106842021854293457729147691503">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22fb/</url>
+        <name>Диски AUDI S5 2008 8T с гарантией</name>
+        <description>Контрактная Диски VAG AUDI S5 2008 8T</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_597.jpg</picture>
+      </collection>
+      <collection id="col_129955511694589831313534604964192155951">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22fb/</url>
+        <name>Диски AUDI S5 2008 8T заказать</name>
+        <description>Контрактная Диски VAG AUDI S5 2008 8T</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_597.jpg</picture>
+      </collection>
+      <collection id="col_167930549432517853649872612761890551637">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22fb/</url>
+        <name>Диски AUDI S5 2008 8T купить</name>
+        <description>Контрактная Диски VAG AUDI S5 2008 8T</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_597.jpg</picture>
+      </collection>
+      <collection id="col_72104523576758918169360529079542992191">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22fb/</url>
+        <name>Диски AUDI S5 2008 8T по низкой цене</name>
+        <description>Контрактная Диски VAG AUDI S5 2008 8T</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_597.jpg</picture>
+      </collection>
+      <collection id="col_80816019343436060523592939328901494283">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22fb/</url>
+        <name>Диски AUDI S5 2008 8T узнать стоимость</name>
+        <description>Контрактная Диски VAG AUDI S5 2008 8T</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_597.jpg</picture>
+      </collection>
+      <collection id="col_128780011097087585890950086676594333523">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20bb/</url>
+        <name>Диски AUDI TT 2007 8J BWA c доставкой</name>
+        <description>Контрактная Диски AUDI TT (кузов 8J, двс BWA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_340.jpg</picture>
+      </collection>
+      <collection id="col_86249219926088087368175059363706810452">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20bb/</url>
+        <name>Диски AUDI TT 2007 8J BWA с гарантией</name>
+        <description>Контрактная Диски AUDI TT (кузов 8J, двс BWA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_340.jpg</picture>
+      </collection>
+      <collection id="col_116428867998088757266893797724841624341">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20bb/</url>
+        <name>Диски AUDI TT 2007 8J BWA заказать</name>
+        <description>Контрактная Диски AUDI TT (кузов 8J, двс BWA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_340.jpg</picture>
+      </collection>
+      <collection id="col_244683422726590923587801368788413392923">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20bb/</url>
+        <name>Диски AUDI TT 2007 8J BWA купить</name>
+        <description>Контрактная Диски AUDI TT (кузов 8J, двс BWA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_340.jpg</picture>
+      </collection>
+      <collection id="col_186293308255541973839292287391417561375">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20bb/</url>
+        <name>Диски AUDI TT 2007 8J BWA по низкой цене</name>
+        <description>Контрактная Диски AUDI TT (кузов 8J, двс BWA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_340.jpg</picture>
+      </collection>
+      <collection id="col_245075924448920029981880020690657068008">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20bb/</url>
+        <name>Диски AUDI TT 2007 8J BWA узнать стоимость</name>
+        <description>Контрактная Диски AUDI TT (кузов 8J, двс BWA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_340.jpg</picture>
+      </collection>
+      <collection id="col_164497116927315884802654298143678990536">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4ae/</url>
+        <name>Диски AUDI A6 2010 C6 CCEA c доставкой</name>
+        <description>Контрактная Диски AUDI A6 2010 C6 CCEA</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_440.jpg</picture>
+      </collection>
+      <collection id="col_67866212220380596998336876262594233863">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4ae/</url>
+        <name>Диски AUDI A6 2010 C6 CCEA с гарантией</name>
+        <description>Контрактная Диски AUDI A6 2010 C6 CCEA</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_440.jpg</picture>
+      </collection>
+      <collection id="col_27963758163448725367550824309681607160">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4ae/</url>
+        <name>Диски AUDI A6 2010 C6 CCEA заказать</name>
+        <description>Контрактная Диски AUDI A6 2010 C6 CCEA</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_440.jpg</picture>
+      </collection>
+      <collection id="col_279118409094494722245020509463200450902">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4ae/</url>
+        <name>Диски AUDI A6 2010 C6 CCEA купить</name>
+        <description>Контрактная Диски AUDI A6 2010 C6 CCEA</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_440.jpg</picture>
+      </collection>
+      <collection id="col_204113169804535284066588960963105668996">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4ae/</url>
+        <name>Диски AUDI A6 2010 C6 CCEA по низкой цене</name>
+        <description>Контрактная Диски AUDI A6 2010 C6 CCEA</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_440.jpg</picture>
+      </collection>
+      <collection id="col_274951264523102049789942840626541308083">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4ae/</url>
+        <name>Диски AUDI A6 2010 C6 CCEA узнать стоимость</name>
+        <description>Контрактная Диски AUDI A6 2010 C6 CCEA</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_440.jpg</picture>
+      </collection>
+      <collection id="col_220442652968930163471564002889924672266">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dee6f/</url>
+        <name>Диски AUDI A6 2010 C6 Avant CCEA c доставкой</name>
+        <description>Контрактная Диски AUDI A6 (кузов C6 Avant, двс CCEA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_615.jpg</picture>
+      </collection>
+      <collection id="col_175303087290124720748194370428669675946">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dee6f/</url>
+        <name>Диски AUDI A6 2010 C6 Avant CCEA с гарантией</name>
+        <description>Контрактная Диски AUDI A6 (кузов C6 Avant, двс CCEA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_615.jpg</picture>
+      </collection>
+      <collection id="col_196587676783622042110037470788599748144">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dee6f/</url>
+        <name>Диски AUDI A6 2010 C6 Avant CCEA заказать</name>
+        <description>Контрактная Диски AUDI A6 (кузов C6 Avant, двс CCEA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_615.jpg</picture>
+      </collection>
+      <collection id="col_252685362543474782575385632776563339068">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dee6f/</url>
+        <name>Диски AUDI A6 2010 C6 Avant CCEA купить</name>
+        <description>Контрактная Диски AUDI A6 (кузов C6 Avant, двс CCEA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_615.jpg</picture>
+      </collection>
+      <collection id="col_26305388780882133997911528954438441304">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dee6f/</url>
+        <name>Диски AUDI A6 2010 C6 Avant CCEA по низкой цене</name>
+        <description>Контрактная Диски AUDI A6 (кузов C6 Avant, двс CCEA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_615.jpg</picture>
+      </collection>
+      <collection id="col_4076151304122920851815590779261521708">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dee6f/</url>
+        <name>Диски AUDI A6 2010 C6 Avant CCEA узнать стоимость</name>
+        <description>Контрактная Диски AUDI A6 (кузов C6 Avant, двс CCEA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_615.jpg</picture>
+      </collection>
+    </collections>
+  </shop>
+</yml_catalog>

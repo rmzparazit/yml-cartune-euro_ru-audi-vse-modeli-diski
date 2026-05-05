@@ -1,0 +1,329 @@
+{
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dec39/": {
+        "fingerprint": "d5158268d6573fc37ab6c4008796a9c1",
+        "raw_data": {
+            "h1_title": "Диски AUDI Q5 2009 8R",
+            "brand": "VAG",
+            "price_raw": "21999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_883.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_884.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_885.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_886.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_887.jpg"
+            ],
+            "specs": {
+                "Марка": "AUDI",
+                "Модель": "Q5",
+                "Кузов": "8R",
+                "Двигатель": "CDNC",
+                "Год": "2009",
+                "Номер по производителю": "135993",
+                "Производитель": "VAG"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Неоригинальные диски, без сварки и трещин, Made in Taiwan 7.5Jx17 ET40",
+            "sales_notes": "В наличии Москва, цена 21999₽",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "VAG",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски AUDI Q5 2009 8R",
+                    "description": "Неоригинальные диски для AUDI Q5 2009, кузов 8R, двигатель CDNC. Без сварки и трещин. Made in Taiwan. Размер 7.5Jx17 ET40. Номер 135993."
+                },
+                {
+                    "title": "Диски AUDI Q5 2009 8R",
+                    "description": "Контрактные диски с AUDI Q5 2009. Состояние: без сварки и трещин. Производство Тайвань. Параметры: 7.5Jx17 ET40. ID 135993."
+                },
+                {
+                    "title": "Диски AUDI Q5 2009 8R",
+                    "description": "Диски для AUDI Q5 2009 года, модель 8R CDNC. Неоригинальные, Made in Taiwan. Размер 7.5Jx17 ET40. Без дефектов сварки и трещин."
+                },
+                {
+                    "title": "Диски AUDI Q5 2009 8R",
+                    "description": "Комплект дисков с AUDI Q5 2009. Характеристики: 7.5Jx17 ET40, неоригинал, Тайвань. Без сварки и трещин. Артикул 135993."
+                },
+                {
+                    "title": "Диски AUDI Q5 2009 8R",
+                    "description": "Диски от автомобиля AUDI Q5 2009 (8R CDNC). Неоригинальные, Made in Taiwan. Размер 7.5Jx17 ET40. Состояние: без сварки и трещин."
+                },
+                {
+                    "title": "Диски AUDI Q5 2009 8R",
+                    "description": "Б/у диски с AUDI Q5 2009. Параметры: 7.5Jx17 ET40, неоригинал, Тайвань. Без сварки и трещин. Номер детали 135993."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [МАРКА] [МОДЕЛЬ] [ГОД] [КУЗОВ] - неоригинальные, без сварки и трещин, Made in Taiwan [РАЗМЕР]",
+            "collection_description": "Контрактная Диски VAG Q5 (кузов 8R, двс CDNC)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:28:55.521684"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22fb/": {
+        "fingerprint": "70984292b81051bb4e4477801923758d",
+        "raw_data": {
+            "h1_title": "Диски AUDI S5 2008 8T",
+            "brand": "VAG",
+            "price_raw": "48999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_597.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_598.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_599.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_600.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_601.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски S-line Speedline 8.5xR19 5x112. Без сварки и трещин. Есть потертости",
+            "sales_notes": "Размеры: 8.5xR19 5x112. Оригинальные S-line Speedline",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "VAG",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски AUDI S5 2008 8T",
+                    "description": "Оригинальные диски S-line Speedline для AUDI S5 2008. Размер 8.5xR19 5x112. Без сварки и трещин. Есть потертости. Контрактная запчасть из Японии."
+                },
+                {
+                    "title": "Диски AUDI S5 2008 8T",
+                    "description": "Оригинальные диски S-line Speedline для AUDI S5 2008. Размер 8.5xR19 5x112. Без сварки и трещин. Есть потертости. Контрактная запчасть из Японии."
+                },
+                {
+                    "title": "Диски AUDI S5 2008 8T",
+                    "description": "Оригинальные диски S-line Speedline для AUDI S5 2008. Размер 8.5xR19 5x112. Без сварки и трещин. Есть потертости. Контрактная запчасть из Японии."
+                },
+                {
+                    "title": "Диски AUDI S5 2008 8T",
+                    "description": "Оригинальные диски S-line Speedline для AUDI S5 2008. Размер 8.5xR19 5x112. Без сварки и трещин. Есть потертости. Контрактная запчасть из Японии."
+                },
+                {
+                    "title": "Диски AUDI S5 2008 8T",
+                    "description": "Оригинальные диски S-line Speedline для AUDI S5 2008. Размер 8.5xR19 5x112. Без сварки и трещин. Есть потертости. Контрактная запчасть из Японии."
+                },
+                {
+                    "title": "Диски AUDI S5 2008 8T",
+                    "description": "Оригинальные диски S-line Speedline для AUDI S5 2008. Размер 8.5xR19 5x112. Без сварки и трещин. Есть потертости. Контрактная запчасть из Японии."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные [тип_запчасти] [бренд] [модель] [год] [кузов] [размеры] [состояние]",
+            "collection_description": "Контрактная Диски VAG AUDI S5 2008 8T",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:29:19.218401"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20bb/": {
+        "fingerprint": "b447076e945d9f834b38766d4b2560de",
+        "raw_data": {
+            "h1_title": "Диски AUDI TT 2007 8J BWA",
+            "brand": "AUDI",
+            "price_raw": "59999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_340.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_341.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_342.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_343.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_344.jpg"
+            ],
+            "specs": {
+                "Марка": "AUDI",
+                "Модель": "TT",
+                "Кузов": "8J",
+                "Двигатель": "BWA",
+                "Год": "2007",
+                "Номер по производителю": "8J",
+                "Производитель": "VAG",
+                "ID товара": "122811"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные японские диски Homura 2x9 RAYS CWP, 19x8J ET45 5x112, требуют ремонта лицевой части",
+            "sales_notes": "Без сварки и трещин, цена 59 999₽",
+            "custom_labels": [
+                "AUDI",
+                "Контрактный",
+                "Б/У",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски AUDI TT 2007 8J BWA",
+                    "description": "Оригинальные японские диски Homura 2x9 RAYS CWP, размер 19x8J ET45 5x112, требуют ремонта лицевой части, без сварки и трещин"
+                },
+                {
+                    "title": "Диски AUDI TT 2007 8J BWA",
+                    "description": "Контрактные диски с AUDI TT 2007, кузов 8J, двигатель BWA, состояние б/у, требуют ремонта лицевой части"
+                },
+                {
+                    "title": "Диски AUDI TT 2007 8J BWA",
+                    "description": "Комплект дисков Homura RAYS CWP 19 дюймов, ширина 8J, вылет ET45, разболтовка 5x112, без сварки и трещин"
+                },
+                {
+                    "title": "Диски AUDI TT 2007 8J BWA",
+                    "description": "Оригинальные диски VAG для AUDI TT 2007, модель Homura 2x9 RAYS CWP, требуют ремонта лицевой части"
+                },
+                {
+                    "title": "Диски AUDI TT 2007 8J BWA",
+                    "description": "Диски 19x8J ET45 5x112 от AUDI TT 2007, бренд RAYS, состояние с дефектами лицевой части, без сварки и трещин"
+                },
+                {
+                    "title": "Диски AUDI TT 2007 8J BWA",
+                    "description": "Японские диски Homura 2x9 RAYS CWP, сняты с AUDI TT 2007, требуют ремонта лицевой части, без сварки и трещин"
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [МАРКА] [МОДЕЛЬ] [ГОД] [КУЗОВ] [ДВИГАТЕЛЬ] - [БРЕНД] [РАЗМЕР] [ПАРАМЕТРЫ], [СОСТОЯНИЕ]",
+            "collection_description": "Контрактная Диски AUDI TT (кузов 8J, двс BWA)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:29:45.233357"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4ae/": {
+        "fingerprint": "b8fe2a9f37d71ad06dbf3c698b58a7fb",
+        "raw_data": {
+            "h1_title": "Диски AUDI A6 2010 C6 CCEA",
+            "brand": "AUDI",
+            "price_raw": "64999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_440.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски AUDI EXCLUSIVE 5. Размеры 8.5Jx19 ET48. Без сварки и трещин. Привезены из Японии",
+            "sales_notes": "Сняты с AUDI A6 2010. В наличии в Москве",
+            "custom_labels": [
+                "AUDI",
+                "Контрактный",
+                "Б/У",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски AUDI A6 2010 C6 CCEA",
+                    "description": "Оригинальные диски AUDI EXCLUSIVE 5. Размеры 8.5Jx19 ET48. Без сварки и трещин. Привезены из Японии. Номер 4F0601025DE."
+                },
+                {
+                    "title": "Диски AUDI A6 2010 C6 CCEA",
+                    "description": "Контрактные диски с AUDI A6 2010. Размер 8.5Jx19 ET48. Оригинал VAG. Без дефектов."
+                },
+                {
+                    "title": "Диски AUDI A6 2010 C6 CCEA",
+                    "description": "Оригинальные диски AUDI EXCLUSIVE 5. Подходят на A6 C6. Размер 8.5Jx19 ET48. Состояние отличное."
+                },
+                {
+                    "title": "Диски AUDI A6 2010 C6 CCEA",
+                    "description": "Диски с японского аукциона. Оригинал AUDI. Размер 8.5Jx19 ET48. Без трещин и сварки."
+                },
+                {
+                    "title": "Диски AUDI A6 2010 C6 CCEA",
+                    "description": "Оригинальные диски AUDI A6 C6. Размер 8.5Jx19 ET48. Номер 4F0601025DE. В наличии."
+                },
+                {
+                    "title": "Диски AUDI A6 2010 C6 CCEA",
+                    "description": "Контрактные диски AUDI EXCLUSIVE 5. Размер 8.5Jx19 ET48. Без дефектов. Привезены из Японии."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные диски [МАРКА] [МОДЕЛЬ] [ГОД] [КУЗОВ] [ДВИГАТЕЛЬ]. Размеры [РАЗМЕРЫ]. [СОСТОЯНИЕ]. Привезены из Японии. Номер [НОМЕР].",
+            "collection_description": "Контрактная Диски AUDI A6 2010 C6 CCEA",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:29:58.338751"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dee6f/": {
+        "fingerprint": "e74fd74df2b226a71f63f34224a481f9",
+        "raw_data": {
+            "h1_title": "Диски AUDI A6 2010 C6 Avant CCEA",
+            "brand": "AUDI",
+            "price_raw": "66999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_615.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_616.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_617.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_618.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_619.jpg"
+            ],
+            "specs": {
+                "Марка": "AUDI",
+                "Модель": "A6",
+                "Кузов": "C6 Avant",
+                "Двигатель": "CCEA",
+                "Год": "2010",
+                "Номер по производителю": "4F0601025DE",
+                "Производитель": "VAG",
+                "Размеры": "8.5Jx19 ET48"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски AUDI EXCLUSIVE 5. Размеры 8.5Jx19 ET48. Без сварки и трещин. Привезены из Японии",
+            "sales_notes": "В наличии в Москве. Цена 66 999₽",
+            "custom_labels": [
+                "AUDI",
+                "Контрактный",
+                "Б/У",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски AUDI A6 2010 C6 Avant CCEA",
+                    "description": "Оригинальные диски AUDI EXCLUSIVE 5. Размеры 8.5Jx19 ET48. Без сварки и трещин. Привезены из Японии. В наличии в Москве."
+                },
+                {
+                    "title": "Диски AUDI A6 2010 C6 Avant CCEA",
+                    "description": "Контрактные диски AUDI A6 2010 C6 Avant CCEA. Размер 8.5Jx19 ET48. Оригинал VAG. Без дефектов."
+                },
+                {
+                    "title": "Диски AUDI A6 2010 C6 Avant CCEA",
+                    "description": "Оригинальные диски AUDI EXCLUSIVE 5 для A6 C6 Avant. Размер 8.5Jx19 ET48. Привезены из Японии."
+                },
+                {
+                    "title": "Диски AUDI A6 2010 C6 Avant CCEA",
+                    "description": "Диски AUDI A6 2010 C6 Avant CCEA. Оригинал VAG. Размер 8.5Jx19 ET48. Без сварки и трещин."
+                },
+                {
+                    "title": "Диски AUDI A6 2010 C6 Avant CCEA",
+                    "description": "Контрактные диски AUDI A6 C6 Avant. Размер 8.5Jx19 ET48. Оригинальные AUDI EXCLUSIVE 5. Из Японии."
+                },
+                {
+                    "title": "Диски AUDI A6 2010 C6 Avant CCEA",
+                    "description": "Оригинальные диски AUDI A6 2010 C6 Avant CCEA. Размер 8.5Jx19 ET48. Без сварки и трещин. В наличии."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [МАРКА] [МОДЕЛЬ] [ГОД] [КУЗОВ] [ДВИГАТЕЛЬ]",
+            "collection_description": "Контрактная Диски AUDI A6 (кузов C6 Avant, двс CCEA)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:30:23.106462"
+    }
+}
